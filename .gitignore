@@ -1,0 +1,20 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+.env*
+
+# generated / local-only
+public/_img
+lighthouse-reports
+.claude
+# source pack + full-size originals stay on disk, not in the repo
+H-Prakash-Florist-Demo-Assets
+unsplash-images/raw
+unsplash-images/full
+unsplash-images/map*.txt
+
+# scratch + duplicate of public/assets/brand/logo-original.png
+unsplash-images/chk-*.jpg
+h-prakash-florish.png

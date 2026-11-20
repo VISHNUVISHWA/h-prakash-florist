@@ -1,0 +1,63 @@
+Photos sourced from Unsplash (https://unsplash.com/license — free to use, attribution not required but appreciated).
+Photo page: https://unsplash.com/photos/<id>  (CDN id shown; look up photographer via the CDN id on unsplash.com)
+
+gallery/weddings/traditional-wedding-mandap <- images.unsplash.com/photo-1587271407850-8d438ca9fdf2
+gallery/weddings/floral-reception-stage <- images.unsplash.com/photo-1786125493218-f9933f67a0f1
+gallery/weddings/elegant-wedding-table <- images.unsplash.com/photo-1780303864944-737d88c789f4
+gallery/weddings/floral-entrance-arch <- images.unsplash.com/photo-1769812343890-4e406a33cfbe
+gallery/weddings/wedding-aisle <- images.unsplash.com/photo-1769812344191-91994886e4a2
+gallery/weddings/ceremony-floral-ceiling <- images.unsplash.com/photo-1696908572229-8d771c25e993
+gallery/weddings/luxury-wedding-centerpiece <- images.unsplash.com/photo-1600965179508-39dd354729ce
+gallery/weddings/hanging-floral-installation <- images.unsplash.com/photo-1708601421001-fbce55077b95
+categories/wedding-decorations <- images.unsplash.com/photo-1763560836989-d3636e2f82d8
+categories/birthday-party-decorations <- images.unsplash.com/photo-1741969494307-55394e3e4071
+categories/fresh-flower-bouquets <- images.unsplash.com/photo-1680563094046-5d846e2c59d1
+categories/traditional-flower-garlands <- images.unsplash.com/photo-1780247584867-d332ed89d423
+categories/corporate-event-flowers <- images.unsplash.com/photo-1641835598222-b8059c5f8e2b
+categories/premium-floral-arrangements <- images.unsplash.com/photo-1646487134240-7262dfc8a830
+gallery/events/birthday-party-flowers <- images.unsplash.com/photo-1604668915840-580c30026e5f
+gallery/events/corporate-floral-table <- images.unsplash.com/photo-1768508951405-10e83c4a2872
+gallery/events/rose-flower-bouquet <- images.unsplash.com/photo-1730749387748-79e6d50a269c
+gallery/florals/pastel-rose-arrangement <- images.unsplash.com/photo-1679621711784-8485ebe333f5
+gallery/florals/marigold-jasmine-basket <- images.unsplash.com/photo-1791079588407-efe22150612f
+
+gallery/events/engagement-floral-decor <- images.unsplash.com/photo-1745573674471-e057af420757
+gallery/events/baby-shower-decor <- images.unsplash.com/photo-1768776183122-95c7d3adbf3e
+gallery/events/anniversary-floral-wall <- images.unsplash.com/photo-1785317178009-09221807f2bd
+gallery/events/festive-flower-decor <- images.unsplash.com/photo-1761886839397-12eeddd162d7
+gallery/events/jasmine-rose-garlands <- images.unsplash.com/photo-1780247584867-d332ed89d423
+gallery/florals/pink-lily-bouquet <- images.unsplash.com/photo-1751621748629-306e6fc034cb
+gallery/florals/purple-orchid-closeup <- images.unsplash.com/photo-1586799958784-8687bc5d659f
+gallery/florals/pink-hydrangea-blooms <- images.unsplash.com/photo-1681017972670-6ce7a314ad18
+gallery/florals/white-lilies <- images.unsplash.com/photo-1785037572750-e84fa501dc63
+hero/hero-flowers-bouquet <- images.unsplash.com/photo-1690692837567-6d911da8b292
+banners/banner-bouquets <- images.unsplash.com/photo-1743712978949-2776ea2f7012
+banners/banner-wedding <- images.unsplash.com/photo-1786125493218-f9933f67a0f1
+mega-menu/shop-flowers <- images.unsplash.com/photo-1680563094046-5d846e2c59d1
+mega-menu/wedding-decor <- images.unsplash.com/photo-1587271407850-8d438ca9fdf2
+mega-menu/event-decoration <- images.unsplash.com/photo-1741969494307-55394e3e4071
+mega-menu/floral-collections <- images.unsplash.com/photo-1646487134240-7262dfc8a830
+mega-menu/corporate-decor <- images.unsplash.com/photo-1592986547861-34a9f1d09b3a
+mega-menu/traditional-garlands <- images.unsplash.com/photo-1780247584867-d332ed89d423
+
+# revisions
+gallery/events/anniversary-floral-wall <- images.unsplash.com/photo-1769230359769-fb28dfc915ed
+gallery/events/corporate-floral-table <- images.unsplash.com/photo-1600965179508-39dd354729ce
+gallery/weddings/luxury-wedding-centerpiece <- images.unsplash.com/photo-1684243920725-956d93ff391a
+gallery/events/baby-shower-decor <- images.unsplash.com/photo-1768776182433-eff58e44d66d
+banners/banner-bouquets <- images.unsplash.com/photo-1727520327526-4b435667860a
+gallery/events/anniversary-floral-wall <- images.unsplash.com/photo-1620346328449-f8fb90a40ad5
+gallery/events/baby-shower-decor <- images.unsplash.com/photo-1644785421448-e1b038f2381e
+
+# products
+products/classic-red-rose-bouquet <- images.unsplash.com/photo-1512056495345-913a0c261dc8
+products/blush-pink-rose-arrangement <- images.unsplash.com/photo-1523693916903-027d144a2b7d
+products/white-lily-elegance-bouquet <- images.unsplash.com/photo-1674784708705-4667d407cc65
+products/mixed-seasonal-flower-basket <- images.unsplash.com/photo-1469317835793-6d02c2392778
+products/fresh-jasmine-flower-garland <- images.unsplash.com/photo-1789044069978-2f9e6e3b1c2b
+products/traditional-marigold-garland <- images.unsplash.com/photo-1699764681875-dd04ce36b1c3
+products/premium-orchid-arrangement <- images.unsplash.com/photo-1534885320675-b08aa131cc5e
+products/luxury-wedding-flower-bouquet <- images.unsplash.com/photo-1525258946800-98cfd641d0de
+products/pastel-celebration-bouquet <- images.unsplash.com/photo-1644248422971-e7e83cb0d3d9
+products/white-rose-floral-box <- images.unsplash.com/photo-1651068948543-95f654a1a174
+gallery/florals/marigold-jasmine-basket <- images.unsplash.com/photo-1635424785729-c022fc1a61bd (replaces earlier)

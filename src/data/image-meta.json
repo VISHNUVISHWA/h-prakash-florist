@@ -1,0 +1,287 @@
+{
+ "/assets/banners/banner-bouquets.webp": {
+  "w": 2200,
+  "h": 1000,
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAcAA4BaJbACdAEfpjQQdMdAAP5YVZAS+onWqyfTJkHnz9osczi2ZS+K9EuWGEqkwD9AkyJEDH7VucAEv4368achLyIDyAGXHuML+TK83JnKBmAjNsrxcQAAAA=="
+ },
+ "/assets/banners/banner-burgundy-floral.webp": {
+  "w": 2200,
+  "h": 440,
+  "blur": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAMAA4BaJbACdAEfZieG9AAA/uayXlQDEeOULJZl7hDQGen8Fh9n4oc2dwKgAAA="
+ },
+ "/assets/banners/banner-wedding.webp": {
+  "w": 2200,
+  "h": 1000,
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAcAA4BaJQBOkBsiryyQk4wAAP29H4AL+pKbXO5Ky60y+IenyznsUpHmU8azwFB3PRkM8SLcGR+8B9ptK2NV8JQPmAAA"
+ },
+ "/assets/brand/app-icon-512.png": {
+  "w": 512,
+  "h": 512,
+  "blur": "data:image/webp;base64,UklGRloBAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSJgAAAABgF3bdtrorCd/hhtIhqEl5qmEuS3maYL5S9K7Q1rTQkRMAGAQ6vUAxm+ju3by+Hi62U8AjIlnueR6m8UwJqWY3FN0zRPov1PSn0lPI7CqqGLUDnaoXMq6qGoP8pLrpf0/O1IuZV1WbCiWovZg8FHpr6yXcQJz8pjdc3StEDDm3uWS63MFA4zB3evX19uDEQK/Dap2pwIDAFZQOCCcAAAA8AIAnQEqEAAQAAOAWiWwAnQH6AY4J5iLGR2n1ujs5CwA/uqlPZ+TX8/yo+25kMKc2etG3M9Xy5S8AFYqGteO5rdkA2ObbXafziYIYoBrIkU16+Vf++oTnYz0Ll3h+3MpcVr7GG3BGggA7GFIktzF4Pu86yNttCJl/bghvKO1xz+ug1NdZ9TNI46Ze1WJqyXNYIpvI85WHuOcdgAA"
+ },
+ "/assets/brand/apple-touch-icon-180.png": {
+  "w": 180,
+  "h": 180,
+  "blur": "data:image/webp;base64,UklGRl4BAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSJwAAAABgBxJkiIptmZ3FcAnHcrEDJIwa8WoAzP9urvyqE+GiJgAwKCo1cpg/C5orxxfX5+sdykAY+RFLrneJjGMMXmI7jG4ZjE6D4r6M+plAJYVlA3aorSvlEs6Kdeu5DnXQ7N2/b/Hlh0o5ZLOKqwp5IJ2oe9Z8a+kt2GMaXlI7ikkLWEYU+9yyfW5gAEFfdsXj0+Xe4MYvw2qrVYVDABWUDggnAAAAJACAJ0BKhAAEAADgFolsAJ0Bp0eYBvfveT64mcAAP7g0needayrjkldW0LTh9/BgSsb23MQrkwOs8MUFefSrmF8nfmfGjx8gT7MvGoxUxdEaa7z2lG3RNSVc4eZC7IyG14+L8eCZ9mPIF71jbwn7T4cEHAKMUs1vc3lD+qc3NyaThUG1yWleRbuIN/Qv76vqHkpxBcVzbRLIAAAAA=="
+ },
+ "/assets/brand/favicon-32.png": {
+  "w": 32,
+  "h": 32,
+  "blur": "data:image/webp;base64,UklGRmABAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSJkAAAABgBxJkmqnYvb9fwbBkdknZvCD2S4mJ5il02qmRRtyISImADBIjUYFxu9E1+rR9fXxRi8GGGOPCin0Mk0iMabIHuE5NEui51af+tP1OARryipm7VEdykuui3rjRlEKPXX8q7M6kpdcV3U2lUtZB9B/L//L9TJKYkaRPcKza4VEYvZVIYU+ljDAGNi9eHy8OhjG+G1QdXTUwAAAVlA4IKAAAADwAgCdASoQABAAA4BaJbACdAac1mCeczMt6MWXMEAAAAD+3xoLo6VhN32tTHKwjEc8vELGMMlwM2Rzn3vgDu8PbZnxo8e7wjDE8hSH5YvdHU5l1N5ZmiLYZ4Fuf0x4NsVy45hlaEgHvLhUnkWtBEhbedV7D6+ml7j8NI7uQ3S5F7LfuQ/vjW5o9NM/rJpc1h3yWVwyQWxWj7eOAk64AAAA"
+ },
+ "/assets/brand/favicon-48.png": {
+  "w": 48,
+  "h": 48,
+  "blur": "data:image/webp;base64,UklGRl4BAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSJkAAAABgB1JkmKn3uz9P/GnguUTMznCLLcYjWBm7c206EIuRMQEAAZWbzAwfifaF/fOLw5WOkmA0X+vkEKPYxiJQUUuI8rsmiDRca1Sf7rue2BeWZVZa7Ajr3IdpoYLRVXotvVfbbVdeZXruGBJuSprE7ru5H+5HvtIjMuzR3h2zZEwxp8VUuh1FgMS3Runt3dn270kfhsUra0FGAAAVlA4IJ4AAABQAwCdASoQABAAA4BaJbACdAfwL8A1WrME81mZRonnFBHAgAD+51OrW/MuQ02P1lsFNZazcZWymB035MHlqGe4oQC6NytXXaUYviObHRcWtl5AQmITgM8X9SdjwLYWNNegL/2AwKeugWrRnT0VdHHjxXREAuLmAe4eg+VxxNCB2UnkF5Yk76FF+dS7iljdMciJhFPV59rkwDzJDA2AAA=="
+ },
+ "/assets/brand/logo-original.png": {
+  "w": 1254,
+  "h": 1254,
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQABAAA4BaJZQAApMlWVSVoAD+9/FuA3g9n8mmsYI0nImXJr1B4DGsvnn+PLMqC/yAST3T88CexQaljF0O7xN3gAA="
+ },
+ "/assets/brand/social-share-og.jpg": {
+  "w": 1200,
+  "h": 630,
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAAgAA4BaJbACdAERCF7qT+AQAP71HiO0MpBQ8PQI9J8sZF6E1i9FZsKDW0Rg0n3TGk0OWBJPfZhFGge7D/1NAAA="
+ },
+ "/assets/categories/birthday-party-decorations.webp": {
+  "w": 1500,
+  "h": 1500,
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQABAAA4BaJbACdAYxFEZpuUzgAP7d3R5G4I2c1wC58xAUvxTHvLOq56c7bi2mYVffhgg/QXJme49icp1RdC0UpYMVRStINFRfN8mQUixwv4Lfwl933OXgOwBuEN2HMBZAAA=="
+ },
+ "/assets/categories/corporate-event-flowers.webp": {
+  "w": 1500,
+  "h": 1500,
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJYwC7AYvrWOm/59zAAD2p/YLyC7uwjlJOm6md91pvlMAfFoG4xLIt6Lt6EUH4MpQ63JnuW4Z1rwoy4RfXaG2jiWiL5XmNygHHKICMD2qndhZDwp9xpLR+l+gepQAAAA="
+ },
+ "/assets/categories/fresh-flower-bouquets.webp": {
+  "w": 1500,
+  "h": 1500,
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQABAAA4BaJQBOgBh7x/AyTsyAAP7z+d1NXrqukPFwZF28LVnUk5Ug09pJagxLyNL9e6+eoydK8ithEzWjuuKrlMv/aEIq6Azyi5N0nWjcACotfJm3GfqDUKc7bsewAAA="
+ },
+ "/assets/categories/premium-floral-arrangements.webp": {
+  "w": 1500,
+  "h": 1500,
+  "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACQAgCdASoQABAAA4BaJZACdH8AgsChNJEG3l2DlAD+ypn7RNkvtRfIniL9CDxpvNRLmf9QSqDDNW98DxweTP77DNrfVgFi1pJZip5JmtQOdymYcK4WR8G+yeua66T+jQiV758lgk16Lsilf3FluJbK8v8V8b6jtCk2ZEFfRCAAAA=="
+ },
+ "/assets/categories/traditional-flower-garlands.webp": {
+  "w": 1500,
+  "h": 1500,
+  "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoQABAAA4BaJQBOgMUtu3NdbiuAAP6EE+l5i7lpUxaRmr/vTlHg1xCBO39Vz06bOeokE59zn7Dh/pViIpBccUkyrA1Ib7u7STIJwq3urIoR46U5yRx3z9zuQLdCB4OGClLX6144L1Yk9TvADiHwAA=="
+ },
+ "/assets/categories/wedding-decorations.webp": {
+  "w": 1500,
+  "h": 1500,
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQABAAA4BaJZQCw7Yv1vVplAAA/udl9dWgTvzIQ8/nG9bep83Q/l44D3a017Uz024M1U+QfcWtWHL9bo3XS8MmdgUNs9IclRWsgZwXVDI8F/9k1xdrFMQAAAA="
+ },
+ "/assets/gallery/events/anniversary-floral-wall.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQAAsAA4BaJbACdAYs3ay9u4FmAAD+1iGWa9X16IrUCi+knM/RXqsuSJAfk1bskU6nyOmmJDAfLoFvCnORDqbgr7+I0fMoF7pdoTNPP8kGOgwRz8lcPbPdwfo77zX/LjGbcQAA"
+ },
+ "/assets/gallery/events/baby-shower-decor.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoQAAsAA4BaJaACdACNkGYAAPtYPOnmoXFIXAjdPM88Xo2IC8pAQth4e00QtpXgHzReaBab45p5JgVE56CBR1pUcyCiVgAA"
+ },
+ "/assets/gallery/events/birthday-party-flowers.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAgCdASoQAAsAA4BaJZACdAYsjUFoFTLsWAAA/kj69pwAfd/gKShXajEs/LKRkqdZYbl7TeFhDIcyyon/wNgJCfp2kUsuGDirGEx3aVdwoAAA"
+ },
+ "/assets/gallery/events/corporate-floral-table.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAsAA4BaJZQAAgNI4eaD8AD+6pMHKscRpkN0tNQTj6bj1EVrPqwUL9Ju3UxG9VD2UFR/CZwzF5jRZeWQ6O9HeVMjUKUrLwAAAA=="
+ },
+ "/assets/gallery/events/engagement-floral-decor.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQAAsAA4BaJbACdAEJSAOoAAD+0fh8g35dXUBb3pJjaHAnup6REGjafdiWkgFE6U3C+fbdvYyF2Z1N+VDXL7uRJXnJbAb3Qr/w7uapW88afI528GomwAAA"
+ },
+ "/assets/gallery/events/festive-flower-decor.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAsAA4BaJbACdLoAEJIUFS71hOAA/rx/0Gr5LcHN+rBDNW282L/ZHUvLR2VrvldmWTIdrUWLN7vC7yGwUMJ3mNgrRLo5AvTloDCUhvf/ipezj0GupK/f/cHLlJ2ToAA="
+ },
+ "/assets/gallery/events/jasmine-rose-garlands.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoQAAsAA4BaJQBOj+BSADZDretTCsAA8ki/A202gIH19+mxe9GZirNTq2NxWOUMdC16JXmZGcSBzHGhxzvtPQ+TQE/1/trDhOD24363PozNn2mQvDV+Czv8GT4JdkY05wXKN5GgAAA="
+ },
+ "/assets/gallery/events/rose-flower-bouquet.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAsAA4BaJbACdAYrdq/UrRUAAP7ytJOAJ633ZGPf/lo7RTF48Wf+p0eC7IGIpafZTAmucGTZ1Y/6Rjf2hjv4QZHgty927+5M3CIZKwpNZAAA"
+ },
+ "/assets/gallery/florals/marigold-jasmine-basket.webp": {
+  "w": 1600,
+  "h": 1600,
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQABAAA4BaJbACdADIPPl48AD+1zCs7xmmYKheikJU0h3fnMV/VFGHS/bnFVzNJDfEs/k55vEzPWNvBFHUYlhZUl05SLYpxT7bG3ZOQxO6BtQ62T6tQAAA"
+ },
+ "/assets/gallery/florals/pastel-rose-arrangement.webp": {
+  "w": 1600,
+  "h": 1600,
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQABAAA4BaJZgCdAEOwayKGAAA/vN1rmhMRqr1VxlEzWjKuqjtWZfLFLA24M3a2L2K8AYaw8kzWQulCiYFT+504Psw2buC2qgUru9NxphYQEuEooQtS0AA"
+ },
+ "/assets/gallery/florals/pink-hydrangea-blooms.webp": {
+  "w": 1600,
+  "h": 1600,
+  "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQABAAA4BaJbACdAYuHDq+N7pZAAD97N1wZpZRBl/Jm+fCHtysaGkGOYNkdPwa7uOpHd9d0Jr9LrExeovNBcB8hvanjpCWwHkdDFiZ1pi9mFPSMqUa3/McfRPjUzeLk5adlRYw88xWVz43Ahmte3vaPrqOEB/AAAA="
+ },
+ "/assets/gallery/florals/pink-lily-bouquet.webp": {
+  "w": 1600,
+  "h": 1600,
+  "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoQABAAA4BaJbACdAYulpSCNfbpMUWAAP702UKrdpjft/35kHnAdV2hrwt4gGVvrI5ht22dTs7Sh4c4j40X3JbhKQAjyrg4FjkpoumFW1otkv+6wGXx521cbN5OL3CiV1b9A73N3h4/6dHqYewlI7ipAb/k0QAA"
+ },
+ "/assets/gallery/florals/purple-orchid-closeup.webp": {
+  "w": 1600,
+  "h": 1600,
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJbACdAEUUtNXI5NXKAD+6jp1ftmPzn8SeMLzj7r7K8vxCPKD9VO5IwV0eDHPsSyndoIUV3rFiwK1FKZlbE6FdrVGpkxWhl7A4S24Zhv8YT4KJE3UZ64xAdSq9gAA"
+ },
+ "/assets/gallery/florals/white-lilies.webp": {
+  "w": 1600,
+  "h": 1600,
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoQABAAA4BaJYwC06Ystzp4Jf/DD+J8AADOJC8iUXCzfrvhRbZh5PMeN2QMdvGQllw+Nnf97kEdEHnwDGhE1BrWq2XTNmerzj0ftbPvKlR4oVIbyXc4Vxki6cJuTkakUae8T6dgj0j1/LB0fHTSn06qv3fs9KGxHGBYRwAA"
+ },
+ "/assets/gallery/weddings/ceremony-floral-ceiling.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoQAAsAA4BaJbACdAYuRy2FHsvY6OxAAPx5FVz+EKWgHjC006hDK5DCQPjhB2RemSzVhhHuVJ6sefH4OimCxuYl+L82zIhHqo1aJ1tzS3zQynk6HHZnN414n+D8uDpJc0frEJUgM+rbj/AANBV6zkyqtgGHAAAA"
+ },
+ "/assets/gallery/weddings/elegant-wedding-table.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAsAA4BaJbACdAYw674XHB20gAD9+k0veWpzEKfNdhmKVrskJ5rEmG4L9ixe7CuoXeVEAVAwQtB5R/6yEBZsQTK3307bD+ZgTC6kuw7gankeHfBOspFKnz24AA=="
+ },
+ "/assets/gallery/weddings/floral-entrance-arch.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAsAA4BaJQBOgCHgWhX/oAD+83hPk4ekRtNHuxi8MHOf9lfjTmVYZXVx73b5nZUcND6uy967+60vn07VzAM6LzDyVqteNYDxAAAA"
+ },
+ "/assets/gallery/weddings/floral-reception-stage.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAsAA4BaJYgCdACZCKW+FAAA/NhyoI0ff/Mz7Vi87DHX0iYoyWRe3fsaBJCxIES4H911NIt85TZr3pkG6aCN3FN7VSxCMvGXm/mnP0JM2qcz08nlPAAA"
+ },
+ "/assets/gallery/weddings/hanging-floral-installation.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAsAA4BaJYgCdAYsPbTrFvedSMAA/vfPdx/dz+AFj/5Th5jtOUP+wiSQzKwf7IUlOfI+p466XX8VtR1fVqvvePjgD9aNiHlgV3VPBnDx++HRL+1t2RGki9ZOl1AeAAA="
+ },
+ "/assets/gallery/weddings/luxury-wedding-centerpiece.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAsAA4BaJYgCdADOeCr4cAAAzdWEcCuzOIhBO0GPdNDEqogf77FwOeUHNyxksLeCLx6kfahIRDzbZWXtRCNxCEGWsLZvtZAAAA=="
+ },
+ "/assets/gallery/weddings/traditional-wedding-mandap.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAsAA4BaJbACdLoAApvCEKbL0AD9v/Twi09fHRDVddc6SWrBP96CU8NjyjF96sfMo8fHf5wty2SO29AwZ/ZcLe72QKRyv0KNthTpYf1ERCLICAA="
+ },
+ "/assets/gallery/weddings/wedding-aisle.webp": {
+  "w": 2000,
+  "h": 1375,
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAsAA4BaJYgC7AD0oZ1v9ZdmgAD+9N/VtmHi+l01H0gvSGbtEGHLxXI1hikwTqWq5jTYiEG6Olih07eguRhXYWxmp6Bz2Cg2hBUAAAA="
+ },
+ "/assets/hero/hero-event-styling.webp": {
+  "w": 2400,
+  "h": 1350,
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAA4BaJaACdAClMJ/PIAD+6GOJt21m6BCcGXpP43N3TOInKaJ/IV0dUTHZXSxqkWcN2SHucWHT1SHQxGCnnQVRxSwxOmp7ds2TweN0dWwAAAA="
+ },
+ "/assets/hero/hero-flowers-bouquet.webp": {
+  "w": 2400,
+  "h": 1350,
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQAAkAA4BaJbACdAEWZDBvAiIAAP5PHgGQ+IhhBBoFZAwnhRbZu3kK0Yk2XrBkIsLxC6VKSBF08sYkZ5CM/1t4hf09Czs8oPxEyf90TMXVmkh/hTSMOI/kHvFkvQz4N5JQAA=="
+ },
+ "/assets/hero/hero-wedding-mandap.webp": {
+  "w": 2400,
+  "h": 1350,
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAkAA4BaJbACdAYqDa2U++nkAAD+8Aodx2Hx4fEIUc7edKxDy8NR9JoAtzOVXgt0KFduWw4c2xV36xIgEfsLtfaTJ+U9bEcorShhwAA="
+ },
+ "/assets/mega-menu/corporate-decor.webp": {
+  "w": 1600,
+  "h": 1152,
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQAAwAA4BaJYwC7ADD2p4/DIfcAAD+76LkQuMwTvOmz3s8Qsza99TVviZOhZAq9oqdmMfe98dE6flOGaazk3uKr4Z1yYdBdoZWYS8ER4lOIQyuPxa0VIP7uCTJIAAA"
+ },
+ "/assets/mega-menu/event-decoration.webp": {
+  "w": 1600,
+  "h": 1152,
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoQAAwAA4BaJbACdAYyLadPrfyXkgAA/r54woXGfdZ5tDdlgkYN7noICzz2pqgNLSpKBsDLJxI/rD9uecdaAbdeIIAGyBCsVSXwplGGPKDM49WyLmxKDVl0XgzAAA=="
+ },
+ "/assets/mega-menu/floral-collections.webp": {
+  "w": 1600,
+  "h": 1152,
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQAAwAA4BaJZACdADLs8ID5coAAP7Kl4AwiLxdvS09m8W0q7hxbcUtRmOjD8nUfbqjjxf3AGEjO/gKaAFm48B8WagcbbF0AQBTpVFK368mXYVYdG3sweRyjf4ruvuOlohAAAAA"
+ },
+ "/assets/mega-menu/shop-flowers.webp": {
+  "w": 1600,
+  "h": 1152,
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAwAA4BaJQBOgCLMvGuAHP++AAD+68Dpqaby5xdwtu6BnvsY0w1H0iXEL/ZYGQuIXQatH2M7bgBxZs5Nun9i9rGRc7apjczQC8WxI7ZwuDJi/YAAAA=="
+ },
+ "/assets/mega-menu/traditional-garlands.webp": {
+  "w": 1600,
+  "h": 1152,
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoQAAwAA4BaJYgCdH8CkAGxUYa8hLHW4ADyf+tCCh+f5k642Ng6bJ36Et8NtZy3dAHjjMpdDaGjcgjcjXFAJ1UBFYtT9XK4DRrr/i5adxNois8+y/Gco8+iWZGqLnVgcKadknNV464GKgAA"
+ },
+ "/assets/mega-menu/wedding-decor.webp": {
+  "w": 1600,
+  "h": 1152,
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAwAA4BaJbACdLoAATBkQAAA/CI/72ek/XE0ESA/kk4ugFFEIOkvicSkf3QqJgoOXBpl0OX/p+8HG6y9t2T2F2wwV8lvdE2J42P0MGf2aEyMW1/22YUuAR8AAA=="
+ },
+ "/assets/products/blush-pink-rose-arrangement.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoQABAAA4BaJYgC7AYtBuVO50yi+tTvAAD+ZrQLxrukGp37xh2C0cYoPiTtgIffAhQcFn1Nf47Y4c8MePWuvJXei2dtoBIabPA6OQpSQJsL499AY1ClSa3Iz5ucvljNo97vaV2DV5sYIkAA"
+ },
+ "/assets/products/classic-red-rose-bouquet.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJaACdAEQzF9uuPdnNAD+o3Ypsk3xSxCz09ouYGTmYFdzL2RqfQ1lt8TtWbtW/dDUlWrOMYS0b1NJizggKno37+fenKDv7vpqRX2xpr3ggb53C80pWiM6xgAAAA=="
+ },
+ "/assets/products/fresh-jasmine-flower-garland.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoQABAAA4BaJYgCdAYubbSZZex72LQAAP7qG0e34LVp3C5r4JG6Yc7Npk2qkLqOi4xb5yCSpM88UYtnzLfDemw5KDQ0AciEgXE3U/f7UX3TMbO4fM4mm0C4F6WpoaLbqLJ6gPCfYKUKzQTAAAA="
+ },
+ "/assets/products/luxury-wedding-flower-bouquet.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQABAAA4BaJaACdADsd7XZRI+AAP5lXF+wlIOiRJ5iBbHOwiGHywvpFioM0weFknl/UpkU2o1hqOllD3TUBAO7SqIbN86ID08wPWfYxYAAAA=="
+ },
+ "/assets/products/mixed-seasonal-flower-basket.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQABAAA4BaJQBOgCFqlkkIAAD+0zl2Zgcee0ybyG0x0sx9c2vLYlFDD5/oMIUIclWDANJ4+/n0AU2Ay7LRITrD6HcAm6h/U51UpaVZ6rLtnh1+aIzRF4AA"
+ },
+ "/assets/products/pastel-celebration-bouquet.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoQABAAA4BaJQBOgBnT4WAM4AD+1hkoX3zdxXxI+lBfZTJo71Q+ZZZLNY4H9LLqFacU2ht2PFJUW3TFVDukKvHf0nY8ypF06A8buIgJp3DlPyAA"
+ },
+ "/assets/products/premium-orchid-arrangement.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQABAAA4BaJagCdAEPhvHPoVuAAP73fIM5NHorwKkaoQuESXJHMLyNmnu+68/09fOMBfcNZOhKcY5UNn2iQRd3em9HfsgT0RzTDvTrpWwZAAAA"
+ },
+ "/assets/products/traditional-marigold-garland.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoQABAAA4BaJbACdLoAAdRnvCI2AAD+GdUz7wA30KT6wdidAyDeRK+m+I77tQNPTE+Uyom9mbS7CsneEiYa9iO32Nsr0FHpm3GDANLN6VPmyG6O3qX1tFia/+FbA7B4goLezSH/4hziC4p6gAAAAA=="
+ },
+ "/assets/products/white-lily-elegance-bouquet.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoQABAAA4BaJYgC7AYtBZwg7F6MhAAAryztc/yX3DP1U+t/skqXWz/f5HekDIlPVP4KlAIL+JIIdUGBkuTCirvyyYwUySAC4+VBI8DdkjVyTz7dbHA4AtBhggAAAA=="
+ },
+ "/assets/products/white-rose-floral-box.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQABAAA4BaJYwAAudVcOIfQAD+7UYDXM6wz+XWWuJT/DSG+zBNPUGqeqik4Gmy7QrzrdoVjkAhAds3Bm3BBPEC72BUkq/TwxRQAA=="
+ },
+ "/assets/textures/wine-satin.webp": {
+  "w": 1400,
+  "h": 1400,
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQABAAA4BaJbACdADHooe7mAD+8xEMRXKidvYorxCbeuN13OGak1FXr3UFLjh+Miqspa4676/Y+6WYZdMhOHC/GRvUoDo5I87QAAAA"
+ }
+}
