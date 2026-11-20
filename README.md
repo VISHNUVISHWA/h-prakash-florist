@@ -14,9 +14,9 @@ npm run build && npm start   # production
 
 ## Deploying (GitHub Pages)
 
-Pushing to  runs , which builds a static export under  and deploys it. The Pages build uses  (static export, base path, pre-generated responsive image variants in ). Locally,  and  use the normal Next.js image optimiser.
+Pushing to `main` runs `.github/workflows/pages.yml`, which builds a static export under `/<repo-name>` and deploys it. The Pages build uses `GITHUB_PAGES=true` (static export, base path, and pre-generated responsive image variants in `public/_img`). Locally, `npm run dev` and `npm run build` use the normal Next.js image optimiser.
 
-To preview the Pages build locally:  and serve  under that path.
+To preview the Pages build locally, run `GITHUB_PAGES=true NEXT_PUBLIC_BASE_PATH=/h-prakash-florist npm run build:pages` and serve `out/` under that path.
 
 ## What's simulated
 
