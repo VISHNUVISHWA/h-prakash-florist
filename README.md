@@ -1,5 +1,7 @@
 # H Prakash Florist — Landing Page Demo
 
+**Live demo:** https://vishnuvishwa.github.io/h-prakash-florist/
+
 A single-page (`/`) luxury floral e-commerce demo built with Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Motion and Radix UI primitives.
 
 ## Run it
@@ -9,6 +11,12 @@ npm install
 npm run dev        # http://localhost:3000
 npm run build && npm start   # production
 ```
+
+## Deploying (GitHub Pages)
+
+Pushing to  runs , which builds a static export under  and deploys it. The Pages build uses  (static export, base path, pre-generated responsive image variants in ). Locally,  and  use the normal Next.js image optimiser.
+
+To preview the Pages build locally:  and serve  under that path.
 
 ## What's simulated
 
@@ -36,7 +44,7 @@ Every link resolves to an in-page action (`src/lib/actions.ts`): scroll to a sec
 
 ## Replacing images
 
-Images live in `public/assets/` (copied from `H-Prakash-Florist-Demo-Assets/`). After replacing or adding images, regenerate the size and blur-placeholder data:
+Images live in `public/assets/`. Photo sources are listed in `unsplash-images/CREDITS.txt`. After replacing or adding images, regenerate the size and blur-placeholder data:
 
 ```bash
 npm run images:meta
